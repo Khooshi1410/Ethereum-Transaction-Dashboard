@@ -18,8 +18,7 @@ This dashboard provides visualization and analysis of key blockchain metrics inc
 - Price correlation analysis
 
 ## Screenshots
-![Dashboard Overview](screenshots/dashboard-overview.png)
-![Transaction Analysis](screenshots/transaction-analysis.png)
+!<img width="894" alt="Screenshot 2025-03-20 at 1 11 39 PM" src="https://github.com/user-attachments/assets/2c82be20-cd2c-4fdf-91b6-d95288a73dc8" />
 
 ## Technologies Used
 - Microsoft Power BI
