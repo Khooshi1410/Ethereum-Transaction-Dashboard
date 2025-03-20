@@ -1,6 +1,3 @@
-# Ethereum-Transaction-Dashboard
-Power BI dashboard analyzing Ethereum blockchain transactions
-
 # Ethereum Transaction Dashboard
 An interactive Power BI dashboard analyzing Ethereum blockchain transactions using Kaggle datasets.
 
